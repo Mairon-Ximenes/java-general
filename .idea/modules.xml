@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio_fixacao/exercicio_fixacao.iml" filepath="$PROJECT_DIR$/exercicio_fixacao/exercicio_fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geral.iml" filepath="$PROJECT_DIR$/geral.iml" />
+    </modules>
+  </component>
+</project>
