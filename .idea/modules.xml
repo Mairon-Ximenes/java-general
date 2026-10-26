@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercicio_fixacao/exercicio_fixacao.iml" filepath="$PROJECT_DIR$/exercicio_fixacao/exercicio_fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces_class/exercicio_fixacao_interfaces/exercicio_fixacao_interfaces.iml" filepath="$PROJECT_DIR$/interfaces_class/exercicio_fixacao_interfaces/exercicio_fixacao_interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/geral.iml" filepath="$PROJECT_DIR$/geral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces_class/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces_class/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces_class/interfaces_class.iml" filepath="$PROJECT_DIR$/interfaces_class/interfaces_class.iml" />
     </modules>
   </component>
